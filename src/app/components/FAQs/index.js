@@ -53,8 +53,7 @@ export const FAQs = () => {
           FREQUENTLY ASKED QUESTIONS
         </p>
         <p className="text-web-cta text-white font-bold">
-          "Quick answers to questions you may have. Can’t find what you're
-          looking for?"
+          {`"Quick answers to questions you may have. Can’t find what you're looking for?"`}
           <br />
           Check out our full documentation
         </p>

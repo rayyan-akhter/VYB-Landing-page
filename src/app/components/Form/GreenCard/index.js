@@ -10,10 +10,10 @@ export const GreenCard = ({ isLast }) => {
     >
       <div className="flex flex-col gap-6  justify-start items-start">
         <p className="text-web-h3 font-bold text-white  ">
-          "Monetize your influencer
+          {'"Monetize your influencer'}
           <br /> status: Earn money adding <br />
           real value to your true
-          <br /> followers!"
+          <br /> {'followers!"'}
         </p>
         <p className="textweb-body2 font-light text-white ">
           Let VYB the money now !! Its here and
